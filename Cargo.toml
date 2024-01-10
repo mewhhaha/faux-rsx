@@ -1,0 +1,3 @@
+[workspace]
+resolver = "2"
+members = ["game", "faux_dom_macro", "faux_dom", "faux_dom_shared"]
